@@ -1,3 +1,4 @@
+// Task 3!
 #include "library_headers.h"
 // перевод строки в вещественное число
 SolutionResult StrToDouble(const char *str, double *result)
