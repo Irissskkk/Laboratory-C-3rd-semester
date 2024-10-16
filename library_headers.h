@@ -1,3 +1,4 @@
+//Task 3!
 #ifndef MATH_CALC_WITH_FLAGS_H_
 #define MATH_CALC_WITH_FLAGS_H_
 
