@@ -9,7 +9,7 @@
 #include <math.h>
 #include <stdbool.h>
 
-// перечислимый тип для определения результата вычислений
+
 typedef enum 
 {
     VALID,
